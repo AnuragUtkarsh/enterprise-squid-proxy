@@ -6,6 +6,29 @@ This project demonstrates the deployment and configuration of an enterprise-leve
 
 Client → Squid Proxy → Internet
 
+## Screenshots
+
+### Squid Installation
+![Squid Installation](screenshots/squid-installation.png)
+
+### Blocked Website Test
+![Blocked Sites](screenshots/blocked-sites.png)
+
+### Allowed Website Test
+![Allowed Sites](screenshots/allowed-sites.png)
+
+### User Based Authentication
+![User Authentication](screenshots/user-based-auth.png)
+
+### Time Based Blocking
+![Time Based Blocking](screenshots/timebound_blocking.png)
+
+### Transparent Proxy Test
+![Transparent Proxy](screenshots/transparent-proxy.png)
+
+### Squid Access Logs
+![Squid Logs](screenshots/squid_logs.png)
+
 The proxy server is responsible for filtering traffic, enforcing authentication policies, and controlling web access.
 
 ## Features Implemented
